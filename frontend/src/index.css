@@ -4,6 +4,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
 }
 
 body {
@@ -434,6 +435,27 @@ h3 {
   }
   .btn-block {
     font-size: 1rem;
+  }
+  .modalHeader .title {
+      font-size: 1.2rem;
+  } 
+  .form-group label {
+      text-align: left;
+      display: block;
+      margin: 0 0 5px 3px;
+      font-size: 0.9rem;
+  }
+  .form-group input {
+      text-align: left;
+      display: block;
+      margin: 0 0 5px 3px;
+      font-size: 1rem;
+  }
+  .modalContainer .body {
+      margin: 20px 0;
+  }
+  .form {
+      margin: unset;
   }
 }
 

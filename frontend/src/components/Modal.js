@@ -15,7 +15,6 @@ export const Modal = ({ closeModal, component, title }) => {
                 <div className="body">
                     {component}
                 </div>
-                <div className="footer"></div>
             </div>
         </div>
     )
