@@ -1,5 +1,5 @@
 # TODO List App
-An application that allows you to create and manage your TODO list
+An application that allows you to create and manage your TODO list.
 
 ## How To Run
 - Clone the Repository:
