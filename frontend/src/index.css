@@ -95,7 +95,7 @@ h3 {
 
 .heading {
   font-size: 2rem;
-  margin-bottom: 50px;
+  margin: 50px 0;
   padding: 0 20px;
   text-align: center;
 }
