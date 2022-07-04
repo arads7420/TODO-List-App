@@ -239,6 +239,7 @@ h3 {
 .color-select {
   display: flex;
   gap: 10px;
+  margin-bottom: 20px;
 }
 .color-button {
   border-radius: 50%;
@@ -426,6 +427,13 @@ h3 {
 @media (max-width: 600px) {
   .tasks {
     grid-template-columns: unset;
+  }
+  .type-button {
+    padding: 10px 10px;
+    font-size: 0.8rem;
+  }
+  .btn-block {
+    font-size: 1rem;
   }
 }
 
