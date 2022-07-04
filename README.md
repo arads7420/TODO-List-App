@@ -1,7 +1,12 @@
 # TODO List App
 An application that allows you to create and manage your TODO list.
 
-## How To Run
+## Tech Stack
+- Node.js for API
+- MongoDB for database
+- React with Redux for frontend
+
+## Installation and Setup
 - Clone the Repository:
 ```
 mkdir TODOApp
